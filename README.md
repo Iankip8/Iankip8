@@ -23,7 +23,7 @@ Welcome to my GitHub profile. I'm a passionate data science student, soon to be 
 - Any exciting project where I can learn and contribute
 
 ## 📫 How to reach me
-- Email: iankip8@example.com
+- Email: kiptooi277@gmail.com
 - LinkedIn: [Ian Kiptoo](https://www.linkedin.com/in/14082001ian-kiptoo/)
 
 
